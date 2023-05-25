@@ -19,7 +19,7 @@ Afterwards the financial data of each stock in each sector was extracted using a
 
 ## Cleaning the data
 ---
-After the financial data for each sector was extracted the data was cleaned by removing any uncessary columns are rows and transposing the dataset. The final dataset was sorted by peRatio and GrossmarginTTM
+After the financial data for each sector was extracted the data was cleaned by removing any uncessary columns are rows and transposing the dataset. The final dataset was sorted by peRatio and GrossmarginTTM in [TD_Financials](https://github.com/evanbruno617/Investment_Data/tree/main/TD_Financials)
 
 ![image](https://github.com/evanbruno617/Investment_Data/blob/main/Resources/Screenshot%202023-05-24%20at%208.48.14%20PM.png)
 
